@@ -6,6 +6,6 @@ Om Adyaye Namaha<br>
 this is a test push gosh darnit<br>
 test change 3
 # Skanda
-/*OM SHARAVANA BHAVAYA NAMAHA*/
+*OM SHARAVANA BHAVAYA NAMAHA*
 
 
